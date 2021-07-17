@@ -1,12 +1,12 @@
 import streamlit as st 
 from PIL import Image
-import pickle
+#import pickle
 import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
+#import matplotlib.pyplot as plt
+#import pandas as pd
 #import tensorflow as tf
-from keras.preprocessing import image
-import os
+#from keras.preprocessing import image
+#import os
 from werkzeug.utils import secure_filename
 st.set_option('deprecation.showfileUploaderEncoding', False)
 from keras.models import load_model
