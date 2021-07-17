@@ -9,7 +9,7 @@ import numpy as np
 #import os
 from werkzeug.utils import secure_filename
 st.set_option('deprecation.showfileUploaderEncoding', False)
-from keras.models import load_model
+#from keras.models import load_model
 
 html_temp = """
    <div class="" style="background-color:blue;" >
